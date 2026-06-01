@@ -87,7 +87,7 @@ QA специалист, в процессе роста до автоматиз�
 ### 🛠 Languages and tools:
 
 <div>
- ![[Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)]
+ ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)
 </div>
 
 ---
