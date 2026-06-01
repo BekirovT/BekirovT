@@ -20,7 +20,7 @@ QA специалист, в процессе роста до автоматиз�
     <a href="https://t.me/bekirov_timur">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
-    <a href="">
+    <a href="https://vk.com/timurmurmur_b">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504953.png" width="40" height="40" alt="telegram" />
     </a>
     <a href="">
@@ -80,6 +80,14 @@ QA специалист, в процессе роста до автоматиз�
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
+</div>
+
+---
+
+### 🛠 Languages and tools:
+
+<div>
+ [![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)]
 </div>
 
 ---
