@@ -1,6 +1,8 @@
+[![HEADER](https://github.com/BekirovT/BekirovT/blob/main/assets/ChatGPT%20Image%201%20июн.%202026%20г.%2C%2023_31_23.png)](![https://github.com/BekirovT/BekirovT/blob/main/assets/ChatGPT%20Image%201%20июн.%202026%20г.%2C%2023_31_23.png](https://github.com/BekirovT/BekirovT/blob/main/assets/ChatGPT%20Image%201%20июн.%202026%20г.%2C%2023_31_23.png))
+
 # Привет, меня зовут Тимур!
 
----
+--- 
 
 ### 👨‍💻 Обо мне:
 
