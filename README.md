@@ -30,6 +30,7 @@ QA специалист, в процессе роста до автоматиз�
 
 ---
 
+<!--
 ### 📁 Тестовая документация:
 
 <div>
@@ -51,7 +52,6 @@ QA специалист, в процессе роста до автоматиз�
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
-<!--
 
 ### 📱 Тестирование мобильных приложений:
 
@@ -62,7 +62,7 @@ QA специалист, в процессе роста до автоматиз�
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
--->
+
 ---
 ### 💾 Работа с данными:
 
@@ -72,7 +72,7 @@ QA специалист, в процессе роста до автоматиз�
 </div>
 
 ---
-
+-->
 ### ✏️ Работа с кодом:
 
 <div>
@@ -82,12 +82,20 @@ QA специалист, в процессе роста до автоматиз�
   
 </div>
 
+
 ---
 
 ### 🛠 Languages and tools:
 
-<div>
- ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)
-</div>
+ ![Postman](https://img.shields.io/badge/-Postman-gray?style=for-the-badge&logo=postman)
+ ![Jira](https://img.shields.io/badge/-Jira-gray?style=for-the-badge&logo=jira)
+ ![VSCode](https://img.shields.io/badge/VS-Code-white?style=for-the-badge&logo=visual_studio_code)
+ ![Swagger](https://img.shields.io/badge/-swagger-gray?style=for-the-badge&logo=swagger)
+ ![DevTools](https://img.shields.io/badge/Dev-Tools-blue?style=for-the-badge)
+ ![](https://img.shields.io/badge/--gray?style=for-the-badge&logo=postman)
+ ![](https://img.shields.io/badge/--gray?style=for-the-badge&logo=postman)
+ ![](https://img.shields.io/badge/--gray?style=for-the-badge&logo=postman)
+  
+
 
 ---
