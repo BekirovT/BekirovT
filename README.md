@@ -111,7 +111,7 @@
       <br>MySql
     </td>
     <td align="center" width="96">
-        <img src="" alt="icon" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/swagger.svg" alt="icon" width="65" height="65" />
       <br>Swagger
     </td>
         <td align="center" width="96">
