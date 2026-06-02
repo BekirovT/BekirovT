@@ -102,7 +102,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="" alt="icon" width="65" height="65" />
+        <img src="https://cdn-icons-png.magnific.com/512/5968/5968875.png?ga=GA1.1.874721145.1780404772" alt="icon" width="65" height="65" />
       </a>
       <br>Jira
     </td>
@@ -125,8 +125,8 @@
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>
+        <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" width="48" height="48" alt="GitLab" />
+      <br>DevTool
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=devtools" width="48" height="48" alt="HTML" />
