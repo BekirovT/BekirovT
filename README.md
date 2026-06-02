@@ -133,6 +133,14 @@ QA специалист, в процессе роста до автоматиз�
       <br>Postman
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="65" height="65" />
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
       <a>
         <img src="" alt="icon" width="65" height="65" />
       </a>
@@ -147,8 +155,8 @@ QA специалист, в процессе роста до автоматиз�
       <br>Swagger
     </td>
         <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" width="65" height="65" alt="icon" />
+      <br>Bash
     </td>
   </tr>
   <tr>
@@ -158,7 +166,7 @@ QA специалист, в процессе роста до автоматиз�
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
+      <br>
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -170,32 +178,17 @@ QA специалист, в процессе роста до автоматиз�
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    
-  </tr>
-   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+      <br>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
+        <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />
+      <br>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
+        <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />
+      <br>
     </td>
-  </tr>
+     </tr>
  <tr>
  </tr>
 </table>
