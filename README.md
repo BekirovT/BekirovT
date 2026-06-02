@@ -77,7 +77,7 @@ QA специалист, в процессе роста до автоматиз�
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
@@ -85,17 +85,117 @@ QA специалист, в процессе роста до автоматиз�
 
 ---
 
-### 🛠 Languages and tools:
+### 🛠 Инструменты и технологии:
 
- ![Postman](https://img.shields.io/badge/-Postman-gray?style=for-the-badge&logo=postman)
- ![Jira](https://img.shields.io/badge/-Jira-gray?style=for-the-badge&logo=jira)
- ![VSCode](https://img.shields.io/badge/VS-Code-white?style=for-the-badge&logo=visual_studio_code)
- ![Swagger](https://img.shields.io/badge/-swagger-gray?style=for-the-badge&logo=swagger)
- ![DevTools](https://img.shields.io/badge/Dev-Tools-blue?style=for-the-badge)
- ![](https://img.shields.io/badge/--gray?style=for-the-badge&logo=postman)
- ![](https://img.shields.io/badge/--gray?style=for-the-badge&logo=postman)
+ ![Postman](https://img.shields.io/badge/-Postman-black?logo=postman)
+ ![Jira](https://img.shields.io/badge/-Jira-gray?logo=jira)
+ ![VSCode](https://img.shields.io/badge/VS-Code-lightblue?ogo=visual_studio_code)
+ ![Swagger](https://img.shields.io/badge/-swagger-gray?logo=swagger)
+ ![DevTools](https://img.shields.io/badge/Dev-Tools-blue)
+ ![MySQL](https://img.shields.io/badge/-My_SQL-white?logo=mysql)
+ ![GitHub](https://img.shields.io/badge/--gray?style=for-the-badge&logo=github)
  ![](https://img.shields.io/badge/--gray?style=for-the-badge&logo=postman)
   
+---
 
+### 📂 Каталог артефактов:
+
+<details>
+  <summary>Чек листы </summary>
+  <br/>
+    <a>сюда</a>
+    <a>сюда</a>
+  <br/>
+</details>
+
+<details>
+  <summary>Тест кейсы</summary>
+  <br/>
+    <a>сюда</a>
+    <a>сюда</a>
+  <br/>
+</details>
+
+<details>
+  <summary>Коллекция Postman</summary>
+  <br/>
+    <a>сюда</a>
+    <a>сюда</a>
+  <br/>
+</details>
 
 ---
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="" alt="icon" width="65" height="65" />
+      </a>
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySql
+    </td>
+    <td align="center" width="96">
+        <img src="" alt="icon" width="65" height="65" />
+      <br>Swagger
+    </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    
+  </tr>
+   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
+      <br>RabbitMQ
+    </td>
+  </tr>
+ <tr>
+ </tr>
+</table>
