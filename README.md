@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Обо мне:
 
-QA специалист, в процессе роста до автоматизированного тестирования.
+Растущий QA специалист, в процессе роста до автоматизированного тестирования.
 
 
 
@@ -72,7 +72,7 @@ QA специалист, в процессе роста до автоматиз�
 </div>
 
 ---
--->
+
 ### ✏️ Работа с кодом:
 
 <div>
@@ -82,51 +82,12 @@ QA специалист, в процессе роста до автоматиз�
   
 </div>
 
-
+-->
 ---
 
 ### 🛠 Инструменты и технологии:
 
- ![Postman](https://img.shields.io/badge/-Postman-black?logo=postman)
- ![Jira](https://img.shields.io/badge/-Jira-gray?logo=jira)
- ![VSCode](https://img.shields.io/badge/VS-Code-lightblue?ogo=visual_studio_code)
- ![Swagger](https://img.shields.io/badge/-swagger-gray?logo=swagger)
- ![DevTools](https://img.shields.io/badge/Dev-Tools-blue)
- ![MySQL](https://img.shields.io/badge/-My_SQL-white?logo=mysql)
- ![GitHub](https://img.shields.io/badge/--gray?style=for-the-badge&logo=github)
- ![](https://img.shields.io/badge/--gray?style=for-the-badge&logo=postman)
-  
----
-
-### 📂 Каталог артефактов:
-
-<details>
-  <summary>Чек листы </summary>
-  <br/>
-    <a>сюда</a>
-    <a>сюда</a>
-  <br/>
-</details>
-
-<details>
-  <summary>Тест кейсы</summary>
-  <br/>
-    <a>сюда</a>
-    <a>сюда</a>
-  <br/>
-</details>
-
-<details>
-  <summary>Коллекция Postman</summary>
-  <br/>
-    <a>сюда</a>
-    <a>сюда</a>
-  <br/>
-</details>
-
----
-
-<table>
+ <table>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />
@@ -169,7 +130,7 @@ QA специалист, в процессе роста до автоматиз�
       <br>
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=devtools" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
@@ -192,3 +153,35 @@ QA специалист, в процессе роста до автоматиз�
  <tr>
  </tr>
 </table>
+  
+---
+
+
+### 📂 Каталог артефактов:
+
+<details>
+  <summary>Чек листы </summary>
+  <br/>
+    <a>сюда</a>
+    <a>сюда</a>
+  <br/>
+</details>
+
+<details>
+  <summary>Тест кейсы</summary>
+  <br/>
+    <a>сюда</a>
+    <a>сюда</a>
+  <br/>
+</details>
+
+<details>
+  <summary>Коллекция Postman</summary>
+  <br/>
+    <a>сюда</a>
+    <a>сюда</a>
+  <br/>
+</details>
+
+---
+
