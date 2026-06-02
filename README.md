@@ -129,7 +129,7 @@
       <br>DevTool
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=devtools" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
@@ -137,15 +137,15 @@
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="" width="48" height="48" alt="icon" />
       <br>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />
+        <img src="" alt="icon" width="65" height="65" />
       <br>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />
+        <img src="" alt="icon" width="65" height="65" />
       <br>
     </td>
      </tr>
